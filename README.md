@@ -53,9 +53,9 @@ Note: Keep all the switch faults in off position
 
 # Program
 ```
-ac=37.6; 
+ac=57.2; 
 Am=28.6; 
-fc=7660;
+fc=9100;
 fm=910;
 fs=25000; 
 t=0:1/fs:2/fm; 
@@ -92,16 +92,14 @@ xgrid;
 
 
 # OUTPUT WAVEFORM
-
-<img width="762" height="573" alt="image" src="https://github.com/user-attachments/assets/6ebc769c-67a3-4caf-98c0-1aac29a0d2ac" />
+![WhatsApp Image 2025-11-04 at 18 25 39_7b4b77a8](https://github.com/user-attachments/assets/64b1c0db-38ad-4003-9105-1446ac1174b4)
 
 #TABULATION
-![WhatsApp Image 2025-09-29 at 16 16 01_d5029ef5](https://github.com/user-attachments/assets/5cfb755f-eeb4-4508-bb40-bde074d2f73b)
-![WhatsApp Image 2025-09-29 at 16 16 35_b5011e51](https://github.com/user-attachments/assets/a980ed6a-1c62-4696-849d-d0b1650ba6c0)
+![WhatsApp Image 2025-11-04 at 20 47 05_71dd0021](https://github.com/user-attachments/assets/69df7ddc-9de6-46ef-800f-4fc45be58118)
 
+![WhatsApp Image 2025-11-04 at 20 47 22_0106ef8a](https://github.com/user-attachments/assets/6846acea-7be0-4d43-8bee-4dc39131dae7)
 
 # RESULT:
-
 Thus, the SSB-SC-AM Modulation and Demodulation is experimentally done and the output is verified.
 
 
