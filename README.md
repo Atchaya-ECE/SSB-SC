@@ -101,7 +101,8 @@ xgrid;
 ![WhatsApp Image 2025-11-04 at 20 47 22_0106ef8a](https://github.com/user-attachments/assets/6846acea-7be0-4d43-8bee-4dc39131dae7)
 
 # RESULT
-Thus, the SSB-SC-AM Modulation and Demodulation is experimentally done and the output is verified.
+![WhatsApp Image 2025-11-16 at 21 24 10_d1fad215](https://github.com/user-attachments/assets/d53245a6-2007-4b47-b3fc-4f9fe490e18f)
+
 
 
 
