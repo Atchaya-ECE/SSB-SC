@@ -15,7 +15,7 @@ To write a program to perform SSBSC modulation and demodulation using SCI LAB an
 Note: Keep all the switch faults in off position
 
 
-# Algorithm
+# ALGORITHM
 1.	Define Parameters:
 •	Fs: Sampling frequency.
 •	T: Duration of the signal.
@@ -46,7 +46,7 @@ Note: Keep all the switch faults in off position
 •	If any Error, correct it in code and execute again
 •	Verify the generated waveform using Tabulation and Model Waveform
 
-# Model Waveform
+# MODEL WAVEFORM
 
 <img width="704" height="178" alt="image" src="https://github.com/user-attachments/assets/32ee29b3-0d95-4192-9762-972d50c05c90" />
 <img width="706" height="167" alt="image" src="https://github.com/user-attachments/assets/bff0d8fd-d679-444e-af37-0b34585853c1" />
@@ -94,12 +94,13 @@ xgrid;
 # OUTPUT WAVEFORM
 ![WhatsApp Image 2025-11-04 at 18 25 39_7b4b77a8](https://github.com/user-attachments/assets/64b1c0db-38ad-4003-9105-1446ac1174b4)
 
-#TABULATION
+# TABULATION
 ![WhatsApp Image 2025-11-04 at 20 47 05_71dd0021](https://github.com/user-attachments/assets/69df7ddc-9de6-46ef-800f-4fc45be58118)
 
+# CALCULATION
 ![WhatsApp Image 2025-11-04 at 20 47 22_0106ef8a](https://github.com/user-attachments/assets/6846acea-7be0-4d43-8bee-4dc39131dae7)
 
-# RESULT:
+# RESULT
 Thus, the SSB-SC-AM Modulation and Demodulation is experimentally done and the output is verified.
 
 
